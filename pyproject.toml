@@ -11,12 +11,20 @@ python-dotenv = "^0.21.0"
 motor = "^3.1.1"
 aiostream = "^0.4.5"
 seaborn = "^0.12.1"
+numpy = "^1.23.5"
+matplotlib = "^3.6.2"
 
 [tool.poetry.group.lint.dependencies]
 isort = "^5.10.1"
 black = "^22.10.0"
 flake8 = "^5.0.4"
 mypy = "^0.982"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+notebook = "^6.5.2"
+ipykernel = "^6.17.1"
 
 [tool.isort]
 profile = "black"

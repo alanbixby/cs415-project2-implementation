@@ -1,0 +1,357 @@
+{
+  "075dbff0219a3a1100c513400c4796ef": {
+    "home_team": "Houston Texans",
+    "away_team": "Philadelphia Eagles",
+    "commence_time": "2022-11-04 00:15:29"
+  },
+  "bba09e52bc88c100a91e824f49be11d5": {
+    "home_team": "Atlanta Falcons",
+    "away_team": "Los Angeles Chargers",
+    "commence_time": "2022-11-06 18:02:40"
+  },
+  "11d244b82e507e18b6439dec557b727a": {
+    "home_team": "New York Jets",
+    "away_team": "Buffalo Bills",
+    "commence_time": "2022-11-06 18:03:24"
+  },
+  "06914c8e4dd403676aee566d7cc9bb69": {
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Carolina Panthers",
+    "commence_time": "2022-11-06 18:02:42"
+  },
+  "9b891783803c8abff0047cf91db2ab3a": {
+    "home_team": "Chicago Bears",
+    "away_team": "Miami Dolphins",
+    "commence_time": "2022-11-06 18:03:28"
+  },
+  "1442a46d7b8b1be156fe3d2932975633": {
+    "home_team": "Detroit Lions",
+    "away_team": "Green Bay Packers",
+    "commence_time": "2022-11-06 18:00:00"
+  },
+  "68f51e5e002cdb584027daada09f3649": {
+    "home_team": "New England Patriots",
+    "away_team": "Indianapolis Colts",
+    "commence_time": "2022-11-06 18:02:21"
+  },
+  "7efdf15a254279be00ebd0f6a7da0150": {
+    "home_team": "Jacksonville Jaguars",
+    "away_team": "Las Vegas Raiders",
+    "commence_time": "2022-11-06 18:02:00"
+  },
+  "3f0616838df7ceba78457c56176e0bcb": {
+    "home_team": "Washington Commanders",
+    "away_team": "Minnesota Vikings",
+    "commence_time": "2022-11-06 18:02:54"
+  },
+  "d1f64ef02a225673944a68df3761f46b": {
+    "home_team": "Arizona Cardinals",
+    "away_team": "Seattle Seahawks",
+    "commence_time": "2022-11-06 21:05:05"
+  },
+  "f5bc53c5b850de36eff5cf4fde8d8d25": {
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Los Angeles Rams",
+    "commence_time": "2022-11-06 21:25:07"
+  },
+  "11b4f477a555bc5f5500530b189f5e5f": {
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Tennessee Titans",
+    "commence_time": "2022-11-07 01:22:39"
+  },
+  "834aeb82cb4e4c5c6de2603b98a55206": {
+    "home_team": "New Orleans Saints",
+    "away_team": "Baltimore Ravens",
+    "commence_time": "2022-11-08 01:15:56"
+  },
+  "dd028b4da19e4bbee6221484c6e32cd7": {
+    "home_team": "Carolina Panthers",
+    "away_team": "Atlanta Falcons",
+    "commence_time": "2022-11-11 01:15:32"
+  },
+  "e8dce84fd844264b94713f2ce384fbcb": {
+    "home_team": "Tampa Bay Buccaneers",
+    "away_team": "Seattle Seahawks",
+    "commence_time": "2022-11-13 14:30:00"
+  },
+  "d2e4c7e39c1fe3cbb4f933c8b2d0fbf2": {
+    "home_team": "Miami Dolphins",
+    "away_team": "Cleveland Browns",
+    "commence_time": "2022-11-13 18:02:32"
+  },
+  "92490f29e85c8e40206640dedf667441": {
+    "home_team": "Tennessee Titans",
+    "away_team": "Denver Broncos",
+    "commence_time": "2022-11-13 18:02:58"
+  },
+  "a62c2d9f2331d1db1d4acd8a07e05caa": {
+    "home_team": "Chicago Bears",
+    "away_team": "Detroit Lions",
+    "commence_time": "2022-11-13 18:02:38"
+  },
+  "7b024b3be1e733850d3297ccb2311aac": {
+    "home_team": "New York Giants",
+    "away_team": "Houston Texans",
+    "commence_time": "2022-11-13 18:00:00"
+  },
+  "27c35e3d77cd2d04f67575352f6aea37": {
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "New Orleans Saints",
+    "commence_time": "2022-11-13 18:01:34"
+  },
+  "73ff0a347489c3e14ef1edf087e5262c": {
+    "home_team": "Las Vegas Raiders",
+    "away_team": "Indianapolis Colts",
+    "commence_time": "2022-11-13 21:05:42"
+  },
+  "dc14776bbc570877bb13425bd8c4db0a": {
+    "home_team": "Los Angeles Rams",
+    "away_team": "Arizona Cardinals",
+    "commence_time": "2022-11-13 21:24:50"
+  },
+  "49b82cfa8d543643cf2b5d5109afa7be": {
+    "home_team": "Green Bay Packers",
+    "away_team": "Dallas Cowboys",
+    "commence_time": "2022-11-13 21:24:53"
+  },
+  "04b8e0aa7595d6a8497456b3144ae859": {
+    "home_team": "San Francisco 49ers",
+    "away_team": "Los Angeles Chargers",
+    "commence_time": "2022-11-14 01:23:04"
+  },
+  "e4cb60c1cd96813bbf67450007cb2a10": {
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Washington Commanders",
+    "commence_time": "2022-11-15 01:15:31"
+  },
+  "97f9ebd005616e0287299b00e546a819": {
+    "home_team": "Buffalo Bills",
+    "away_team": "Minnesota Vikings",
+    "commence_time": "2022-11-13 18:02:50"
+  },
+  "0148d027b7cb8dc406855ea91a6b7978": {
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Jacksonville Jaguars",
+    "commence_time": "2022-11-13 18:02:10"
+  },
+  "e0798499a67017b5837ab3fb09e24777": {
+    "home_team": "Green Bay Packers",
+    "away_team": "Tennessee Titans",
+    "commence_time": "2022-11-18 01:14:32"
+  },
+  "449d4f6af92880469d4d3405e34042e3": {
+    "home_team": "Atlanta Falcons",
+    "away_team": "Chicago Bears",
+    "commence_time": "2022-11-20 18:00:00"
+  },
+  "f53af7a0ca9789f19b3ee9af25cd9d93": {
+    "home_team": "Baltimore Ravens",
+    "away_team": "Carolina Panthers",
+    "commence_time": "2022-11-20 18:03:02"
+  },
+  "0e207b9097d05f4e0c29eaa51dfba378": {
+    "home_team": "Buffalo Bills",
+    "away_team": "Cleveland Browns",
+    "commence_time": "2022-11-20 18:02:33"
+  },
+  "13609957f97b2469d6a01db2ad42a053": {
+    "home_team": "Houston Texans",
+    "away_team": "Washington Commanders",
+    "commence_time": "2022-11-20 18:02:30"
+  },
+  "165cbe2f28ce9b22f4dda8169843f848": {
+    "home_team": "Indianapolis Colts",
+    "away_team": "Philadelphia Eagles",
+    "commence_time": "2022-11-20 18:02:09"
+  },
+  "52229c7e0378a451ccd345fe8de45a52": {
+    "home_team": "New England Patriots",
+    "away_team": "New York Jets",
+    "commence_time": "2022-11-20 18:10:33"
+  },
+  "b879f75b3c85ed1c8a686acaa9c03d9a": {
+    "home_team": "New York Giants",
+    "away_team": "Detroit Lions",
+    "commence_time": "2022-11-20 18:03:17"
+  },
+  "45a5068369254d1d6c1b925e3792068d": {
+    "home_team": "New Orleans Saints",
+    "away_team": "Los Angeles Rams",
+    "commence_time": "2022-11-20 18:02:34"
+  },
+  "7e0b980531f449fae861daf30b37116a": {
+    "home_team": "Denver Broncos",
+    "away_team": "Las Vegas Raiders",
+    "commence_time": "2022-11-20 21:05:47"
+  },
+  "7b59ad0c31af31b823f5ed7455f7ac53": {
+    "home_team": "Pittsburgh Steelers",
+    "away_team": "Cincinnati Bengals",
+    "commence_time": "2022-11-20 21:24:13"
+  },
+  "45cc9feb5cd8b7d9dd2eafe64ceef1d3": {
+    "home_team": "Minnesota Vikings",
+    "away_team": "Dallas Cowboys",
+    "commence_time": "2022-11-20 21:25:12"
+  },
+  "bc7a7e572d3b7b9ed988a9feebf09aa6": {
+    "home_team": "Los Angeles Chargers",
+    "away_team": "Kansas City Chiefs",
+    "commence_time": "2022-11-21 01:22:40"
+  },
+  "6cb8b70ef8969b46535e63a71e9500f5": {
+    "home_team": "Arizona Cardinals",
+    "away_team": "San Francisco 49ers",
+    "commence_time": "2022-11-22 01:15:13"
+  },
+  "febaaec689e0d22db53cb8eec2177048": {
+    "home_team": "Detroit Lions",
+    "away_team": "Buffalo Bills",
+    "commence_time": "2022-11-24 17:34:53"
+  },
+  "7105b806f4de825d7ed04c2a88ea7dc1": {
+    "home_team": "Dallas Cowboys",
+    "away_team": "New York Giants",
+    "commence_time": "2022-11-24 21:35:38"
+  },
+  "bcc13922c6264eaf1f2a63ff1870a580": {
+    "home_team": "Minnesota Vikings",
+    "away_team": "New England Patriots",
+    "commence_time": "2022-11-25 01:23:59"
+  },
+  "6ed6b7033de80a6acae7123c23a71963": {
+    "home_team": "Washington Commanders",
+    "away_team": "Atlanta Falcons",
+    "commence_time": "2022-11-27 18:00:00"
+  },
+  "f3d4a9a81b6e2a4d6562e069ab0a2ff3": {
+    "home_team": "Jacksonville Jaguars",
+    "away_team": "Baltimore Ravens",
+    "commence_time": "2022-11-27 18:00:00"
+  },
+  "9c1fde4f7f0376df696309ad98202102": {
+    "home_team": "Carolina Panthers",
+    "away_team": "Denver Broncos",
+    "commence_time": "2022-11-27 18:00:00"
+  },
+  "2444eaf8abc191114f858dc98d2d8d81": {
+    "home_team": "Tennessee Titans",
+    "away_team": "Cincinnati Bengals",
+    "commence_time": "2022-11-27 18:00:00"
+  },
+  "2fb2ee796b6d7f240603c06a2a981b35": {
+    "home_team": "Cleveland Browns",
+    "away_team": "Tampa Bay Buccaneers",
+    "commence_time": "2022-11-27 18:00:00"
+  },
+  "dbef6e83eefc8bbae8f75546dcd307c7": {
+    "home_team": "Miami Dolphins",
+    "away_team": "Houston Texans",
+    "commence_time": "2022-11-27 18:00:00"
+  },
+  "5b09f0e3e19fda1bcc3ada157285ef2b": {
+    "home_team": "Seattle Seahawks",
+    "away_team": "Las Vegas Raiders",
+    "commence_time": "2022-11-27 21:05:00"
+  },
+  "c00c2b33fb6e444baf36064cc1351305": {
+    "home_team": "San Francisco 49ers",
+    "away_team": "New Orleans Saints",
+    "commence_time": "2022-11-27 21:25:00"
+  },
+  "3b11e95bcebc77bc722ae73cef93d1de": {
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Green Bay Packers",
+    "commence_time": "2022-11-28 01:20:00"
+  },
+  "5a9f3d53ca881b4b20b28b4c16066adc": {
+    "home_team": "Indianapolis Colts",
+    "away_team": "Pittsburgh Steelers",
+    "commence_time": "2022-11-29 01:15:00"
+  },
+  "38bf123ec9df3af4efff83e45f472c61": {
+    "home_team": "New York Jets",
+    "away_team": "Chicago Bears",
+    "commence_time": "2022-11-27 18:00:00"
+  },
+  "ecdbfe9b206222bd1a8f42325b22b594": {
+    "home_team": "Arizona Cardinals",
+    "away_team": "Los Angeles Chargers",
+    "commence_time": "2022-11-27 21:05:00"
+  },
+  "cde5ac558586f86472c25a36c4da943f": {
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Los Angeles Rams",
+    "commence_time": "2022-11-27 21:25:00"
+  },
+  "648a63e7bde1e6976d622537e874ad04": {
+    "home_team": "New England Patriots",
+    "away_team": "Buffalo Bills",
+    "commence_time": "2022-12-02 01:15:00"
+  },
+  "92a6537e4987e5fcb717d0de33f019ab": {
+    "home_team": "Atlanta Falcons",
+    "away_team": "Pittsburgh Steelers",
+    "commence_time": "2022-12-04 18:00:00"
+  },
+  "e7dbbac30c2f7432a79caa45ed79bc84": {
+    "home_team": "Baltimore Ravens",
+    "away_team": "Denver Broncos",
+    "commence_time": "2022-12-04 18:00:00"
+  },
+  "d4d95e6c6da313273ec0827e85f24b49": {
+    "home_team": "Chicago Bears",
+    "away_team": "Green Bay Packers",
+    "commence_time": "2022-12-04 18:00:00"
+  },
+  "3aa887ce94449463b1e91d35f3b35902": {
+    "home_team": "Houston Texans",
+    "away_team": "Cleveland Browns",
+    "commence_time": "2022-12-04 18:00:00"
+  },
+  "0ad38217d98c00a04b948e08b69a481d": {
+    "home_team": "Detroit Lions",
+    "away_team": "Jacksonville Jaguars",
+    "commence_time": "2022-12-04 18:00:00"
+  },
+  "7e4be41bab93ace9b1872c0979c78a94": {
+    "home_team": "Minnesota Vikings",
+    "away_team": "New York Jets",
+    "commence_time": "2022-12-04 18:00:00"
+  },
+  "bc12a0fc8e096e6d75a83986bf90ebfc": {
+    "home_team": "New York Giants",
+    "away_team": "Washington Commanders",
+    "commence_time": "2022-12-04 18:00:00"
+  },
+  "9fec0cf1ae00293bfc260767f250d719": {
+    "home_team": "Philadelphia Eagles",
+    "away_team": "Tennessee Titans",
+    "commence_time": "2022-12-04 18:00:00"
+  },
+  "67ac660048e5f7a387981b8704b6e37c": {
+    "home_team": "Los Angeles Rams",
+    "away_team": "Seattle Seahawks",
+    "commence_time": "2022-12-04 21:05:00"
+  },
+  "0e67e61df04c675d9166406e9f953e69": {
+    "home_team": "San Francisco 49ers",
+    "away_team": "Miami Dolphins",
+    "commence_time": "2022-12-04 21:05:00"
+  },
+  "bafbb177c810d5be0a2d0a84e3698e54": {
+    "home_team": "Cincinnati Bengals",
+    "away_team": "Kansas City Chiefs",
+    "commence_time": "2022-12-04 21:25:00"
+  },
+  "4631035aeb30e4665fe564e5ada06a42": {
+    "home_team": "Las Vegas Raiders",
+    "away_team": "Los Angeles Chargers",
+    "commence_time": "2022-12-04 21:25:00"
+  },
+  "99b216c0d5561f7a73ff329a0f46f3a5": {
+    "home_team": "Dallas Cowboys",
+    "away_team": "Indianapolis Colts",
+    "commence_time": "2022-12-05 01:20:00"
+  }
+}

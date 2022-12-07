@@ -1,5 +1,8 @@
-data
-tweet_data
+data/reddit_comments_timeseries_minute_count_sentiment.json
+data/twitter_stream_sentiment.json
+data/odds_betting_with_outcomes_NEW.json
+data/reddit_comments_timeseries_minute_count_sentiment.json
+data/twitter
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
